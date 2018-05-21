@@ -13,7 +13,7 @@ class FirebaseProvider extends ServiceProvider {
                 storageBucket: Config.get('firebase.storageBucket')
             };
             
-            return Firebase.init(config);
+            return Firebase.initializeApp(config);
         });
     }
 

@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/jrishabh55/adonis-firebase#readme",
   "dependencies": {
-    "firebase": "^4.8.0",
-    "firebase-admin": "^5.5.1"
+    "firebase": "^5.0.3",
+    "firebase-admin": "^5.12.1"
   }
 }
